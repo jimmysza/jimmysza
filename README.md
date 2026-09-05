@@ -56,9 +56,16 @@ Desarrollador de Software Full Stack con énfasis en Frontend y una sólida base
 - 🇪🇸 **Español**: Nativo
 - 🇬🇧 **Inglés**: Intermedio (B1)
 
+## 🔭 Experiencia Actual
+
+## **MEYD Solutions** | *Frontend Developer & Coordinador Técnico*
+*   **Desarrollo:** Creación de interfaces, ajuste de plantillas y configuraciones del sistema utilizando Angular puro.
+*   **Gestión y Liderazgo:** Planificación de requerimientos técnicos con dirección, asignación de tareas y orquestación del flujo de trabajo.
+*   **Integración:** Supervisión y revisión de entregables del equipo Backend para asegurar una correcta implementación.
+  
 ## 💼 Disponibilidad
 
-✨ Abierto a proyectos freelance, colaboraciones open source y roles en backend y full stack.
+✨ Abierto a proyectos freelance, colaboraciones open source y roles en frontend y full stack.
 
 <br>
 <p align="center">
