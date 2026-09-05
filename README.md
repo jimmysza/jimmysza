@@ -2,7 +2,7 @@
 ## 💻 Stack tecnológico
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,java,spring,ts,python,js,react,angular,bootstrap,mysql,mongodb,git,github,docker,azure,npm,postman,html,css,figma,windows,vscode,visualstudio,idea,bash,powershell,notion&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,angular,mysql,mongodb,git,github,npm,postman,html,css,figma,windows,vscode,visualstudio,idea,bash,powershell,notion&perline=10" />
   </a>
 </p>
 <p align="center">
